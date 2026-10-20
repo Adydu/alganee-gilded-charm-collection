@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep content routes self-contained and place the storefront presentation and product interactions in the home route; the catalog is intentionally a single shareable destination.

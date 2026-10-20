@@ -1,0 +1,4 @@
+- [ ] Build an Indian-inspired, shareable Alganee jewelry and watches catalog with the provided Amazon listing and clearly identified placeholders.
+- [ ] Add responsive product discovery and verify the provided Amazon product link.
+- [ ] Include Alganee branding throughout the page.
+- [ ] Use the Amazon reference listing to match the featured watch details and inform the visual style of the other previews.
